@@ -1,7 +1,8 @@
 **Asistente BDCC**
 
 Chatbot basado en reglas para responder consultas sobre Black Desert Combat Club. Desarrollado con Python y NLTK para el Avance de proyecto 1.
-Funciones
+
+*Funciones*
 - Información sobre juegos y actividades.
 - Orientación sobre inscripción, costos y contacto.
 - Contexto básico entre mensajes y manejo de consultas no reconocidas.
